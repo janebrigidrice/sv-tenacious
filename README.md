@@ -19,3 +19,7 @@ The website is built using HTML and CSS and is deployed using GitHub Pages.
 - `index.html` – Main webpage
 - `style.css` – Styling for the webpage
 - `Tenacious-2000.jpg` – Image used on the site
+
+## Site URL 
+
+https://janebrigidrice.github.io/sv-tenacious
